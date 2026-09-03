@@ -1,0 +1,2 @@
+# cwiczenie
+cwiczenie gita 
